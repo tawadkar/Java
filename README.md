@@ -1,1 +1,1 @@
-# [Java Projects Index](https://github.com/shubhamrdarda/JavaProjects/wiki)
+# [Java Home](https://github.com/Codingwindow/Java/wiki)
